@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).#######
 The proper functioning of this application depends on the "google books" API, which is consumed to provide a service when displaying the copies.
 
 ## Available Scripts
